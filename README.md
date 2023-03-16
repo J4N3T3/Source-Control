@@ -3,7 +3,7 @@
 ## What's Git?
 Git is a distributed version control system that tracks changes in any set of computer files, usually used for coordinating work among programmers collaboratively developing source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows (thousands of parallel branches running on different systems).
 
-## What's Source Control
+## What's Source Control?
 Source control is the practice of tracking and managing changes to software code. Source control systems are software tools that help software teams manage changes to source code over time. As development environments have accelerated, source control systems help software teams work faster and smarter. They are especially useful for DevOps teams since they help them to reduce development time and increase successful deployments.
 
 ## Branches
